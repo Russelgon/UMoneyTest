@@ -238,7 +238,7 @@ file __PageNavigationForTitle.png__ is a screenshot of a failure test. Name of t
 
 We use maven to build and manage project by comand line.
  
- testNg instead of JUnit to optimazie our testes you full control over the test cases and the execution of the test cases.
+ testNg instead of JUnit to optimazie our testes with full control over the test cases and the execution of the test cases.
 
  ---
 
