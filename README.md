@@ -2,7 +2,7 @@
 ---
 UMoneyTest is a system for a base test of some features in yooumoney.ru
 
-That project were made just like an example of methods that i know how to use in selenium. The main goal is to get a little chance for a work in your company.
+That project were made just like an example of methods that I know how to use in selenium. The main goal is to get a little chance for a work in your company.
 
 ---
 ### 📝 Check-List 📝
@@ -244,4 +244,4 @@ We use maven to build and manage project by comand line.
 
  ### 🔗 Jenkins
 
- For the Continuous Integration i use Jenkins and Java version 17
+ For the Continuous Integration I use Jenkins and Java version 17
