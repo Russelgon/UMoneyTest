@@ -68,6 +68,7 @@ Structure for the IMPORTANT files that are placed in an EndProject folder.
 __BasePage__ is a class for a base page navigation where are we can do multiple testes:
 
 __sign in__
+
 Possibility sign in
 ```java
 private By signin = By.id("signin");
@@ -79,6 +80,7 @@ private By signin = By.id("signin");
 	}
 ```
 __title__
+
 Is title placed on a base page
 
 ```java
@@ -89,6 +91,7 @@ private By title = By.xpath("//span[contains(text(),'ЮMoney: приложени
 	}
 ```
 __panel bar__
+
 Is panel bar placed on a base page
 
 ```java
@@ -99,7 +102,9 @@ private By panel = By.xpath("//body/div[@id='root']/div[1]/div[1]/div[1]");
 	}
 ```
 
-__LoginPage__ is a class for a base page navigation where we could do sign in
+__LoginPage__
+
+is a class for a base page navigation where we could do sign in
 
 ```java
 private By email = By.name("login");
