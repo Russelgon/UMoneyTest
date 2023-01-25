@@ -5,7 +5,7 @@ UMoneyTest is a system for a base test of some features in yooumoney.ru
 That project were made just like an example of methods that I know how to use in selenium. The main goal is to get a little chance for a work in your company.
 
 ---
-### 📝 Check-List 📝
+### 📝 Test-Case 📝
 
 
 | First Header  | Second Header |
