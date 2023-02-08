@@ -2,7 +2,7 @@
 ---
 UMoneyTest is a system for a base test of some features in yooumoney.ru
 
-That project were made for automatiom testing by WebDriver selenium.
+That project were made for automation testing by WebDriver selenium.
 
 ---
 ### 📝 Test-Case 📝
